@@ -1,4 +1,4 @@
-public class HelloEMC {
+public class Helloemc {
     public static void main(String[] args) {
         System.out.println("Hi! This is KiruthigaNSK");
         System.out.println("Hello EMC Students, welcome to the world of CI/CD");
